@@ -12,7 +12,7 @@
         color="black"
         bg-color="white"
         filled
-        placeholder="Your Email.."
+        placeholder="Enter Your Email"
         class="q-pl-lg q-pr-lg q-pb-lg"
       >
         <template v-slot:prepend>
@@ -20,7 +20,7 @@
         </template>
 
         <template v-slot:append>
-          <q-btn color="purple">Start Learning</q-btn>
+          <q-btn color="purple">Start Learning Qickly</q-btn>
         </template>
       </q-input>
     </div>
@@ -173,12 +173,12 @@
     </div>
     </div>
 
- 
+
     </q-card>
   </div>
 </div>
 </div>
-  
+
   </q-page>
 </template>
 
